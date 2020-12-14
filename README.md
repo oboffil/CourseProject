@@ -11,3 +11,5 @@ Group Name: Oboffil
 Topic: MeTa Toolkit
 
 Project Topic: Enhance MeTA and Metapy usability
+
+Tutorial Video: https://youtu.be/m9CEqIl3ADg
